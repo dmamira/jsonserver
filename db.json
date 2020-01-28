@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "name": "Test1",
+"image":"https://cdn.pixabay.com/photo/2020/01/25/10/36/ferris-wheel-4792152_1280.jpg",
+"description": "TestToken1" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
